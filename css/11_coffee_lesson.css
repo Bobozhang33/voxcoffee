@@ -1,0 +1,144 @@
+.head-img{
+    width: 100%;
+    overflow: hidden;
+    vertical-align:middle;
+}
+.les-img{
+    width: 310px;
+    box-sizing: border-box;
+    margin-left: 10px;
+    margin-top:200px
+}
+.school-pic{
+    box-sizing: border-box;
+    margin-left: 300px;
+    width: 100%;
+}
+.school{
+    background: url("../images/school_1_bg.jpg");
+    overflow: hidden;
+}
+.all-list>li{
+    border-bottom: 2px solid #FFFFFF;
+    padding:0 60px 0 190px;
+    color:#555;
+}
+.les-text{
+    margin: 100px 100px;
+}
+.les-text>h1{
+    text-align: left;
+    font-size: 60px;
+    margin: 100px 0px 50px;
+}
+.les-left{
+    font-size: 40px;
+    float: left;
+    line-height: 66px;
+    width: 42%;
+    margin-bottom: 100px;
+}
+.les-right{
+    margin-top: 140px;
+    float: left;
+    line-height: 48px;
+    width: 52%;
+    font-size: 30px;
+    color:#b08f29
+}
+.les-right2{
+    margin-top: 265px;
+    float: left;
+    line-height: 48px;
+    width: 52%;
+    font-size: 30px;
+    color:#b08f29
+}
+.les-right3{
+    margin-top: 535px;
+    float: left;
+    line-height: 48px;
+    width: 52%;
+    font-size: 30px;
+    color:#b08f29
+}
+.les-right4{
+    margin-top: 295px;
+    float: left;
+    line-height: 48px;
+    width: 52%;
+    font-size: 30px;
+    color:#b08f29
+}
+.les-bottom2{
+    height: 120px;
+}
+.les-bottom2>h1{
+    /*display: inline-block;*/
+    font-size: 60px;
+    float: left;
+    line-height: 120px;
+    font-weight: 400;
+}
+.les-bottom2>span{
+    float: left;
+    font-size: 30px;
+    text-align: left;
+    color:#b08f29;
+    width: 982px;
+    line-height: 60px;
+    /*display: inline-block;*/
+}
+.bottom-w{
+    height: 120px;
+}
+.les-b-f1{
+    text-align: center;
+}
+.les-b-f1>h1{
+    margin-top: 20px;
+    font-size: 60px;
+    line-height: 100px;
+    font-weight: 400;
+
+}
+.les-b-f1>p{
+    font-size: 24px;
+    color: #b08f29;
+    height: 48px;
+    line-height: 48px;
+}
+.les-b-f1>div{
+    font-size: 30px;
+    color: #45412d;
+    margin-bottom: 52px;
+}
+.cake-bread-cookie{
+    font-size: 40px;
+    font-weight: 400;
+    float: left;
+    box-sizing: border-box;
+    margin:100px 100px;
+}
+.cake-bread-cookie>li>h1{
+    font-size: 60px;
+    font-weight: 500;
+    color:#262625;
+}
+.cake-text{
+    line-height: 48px;
+    font-size: 30px;
+    color:#b08f29 ;
+    box-sizing: border-box;
+    margin:0px 100px;
+}
+.cake-text>p,.cake-text>div{
+    float: left;
+}
+.cake-text>div{
+    width: 980px;
+}
+.all-ul{
+    padding:0 60px 0 190px;
+    color:#555;
+}

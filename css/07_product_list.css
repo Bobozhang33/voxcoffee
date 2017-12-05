@@ -1,0 +1,71 @@
+.product-head-pic{
+    overflow: hidden;
+    margin-bottom: 50px;
+}
+@media (min-width: 1176px){
+    .header{
+        overflow: hidden;
+        width: 1280px;
+        margin: 72px auto;
+    }
+    .head-text{
+        float: left;
+        width: 742px;
+    }
+    .head-img{
+        margin: 74px 0px 0px 6px;
+        width: 400px;
+        float: left;
+    }
+}
+.head-text{
+    float: left;
+    box-sizing: border-box;
+    text-align: right;
+}
+.head-text>p{
+
+    font-size: 20px;
+    color: #555;
+}
+.head-text>h1{
+
+    color: #B3660B;
+    font-size: 124px;
+
+}
+.head-img{
+    float: left;
+    vertical-align: middle;
+    margin-left: 100px;
+}
+.row h1{
+    color: #E8AA03;
+    font-size: 34px;
+    margin: 150px 0;
+}
+.text-cn{
+    font-size: 16px;
+    margin-top: 10px;
+    color: #999999;
+}
+.text-en{
+    color: #0C6E49;
+    font-style: italic;
+    margin-bottom: 50px;
+}
+.product-ou{
+    background: #7d7777;
+}
+.product-ou h1{
+    color: #ffffff;
+}
+.product-ftext{
+    font-size: 30px;
+    color:#fff;
+}
+.product-ftext h1{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 134px;
+}

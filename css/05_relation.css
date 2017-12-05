@@ -1,0 +1,20 @@
+.lx{
+    min-width: 1280px;
+    height: 1050px;
+    overflow: hidden;
+    background: url("../images/contact_us_bg.jpg") no-repeat scroll center center;
+
+}
+#lxwm{
+    margin-left: 600px;
+    margin-top: 356px;
+    width: 360px;
+    height: 300px;
+    line-height: 50px;
+    font-size: 16px;
+    font-weight: bold;
+    color:#555;
+    font-style: italic;
+}
+
+

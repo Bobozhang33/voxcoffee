@@ -1,0 +1,17 @@
+.text-jieshao>h1{
+    font-size: 93px;
+    text-align: left;
+    color: #f89520;
+    margin: 20px 0;
+}
+.text-jieshao p{
+    color: #1d1d1d;
+    font-size: 24px;
+    line-height: 48px;
+    text-align: left;
+    margin-bottom: 50px;
+    box-sizing: border-box;
+}
+.school-pic{
+    margin-bottom: 120px;
+}

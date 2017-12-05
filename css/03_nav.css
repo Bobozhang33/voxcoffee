@@ -1,0 +1,77 @@
+a:hover{ text-decoration:none}
+#top-nav{
+    width:150px;
+    position:fixed;
+    right:50px;
+    top:20px;
+    z-index:1000;
+    padding-right:50px;
+}
+.right-nav{
+    font-size:22px;
+    margin:20px;
+    text-align:center;
+    width: 130px;
+    height: 40px;
+    box-sizing:border-box;
+}
+.right-nav>a{
+    cursor:pointer;
+    color:#fff;
+}
+.right-nav>a:hover{
+    color:#444;
+    transition:color .5s linear;
+}
+.top-nav-li{
+    background:rgba(0,0,0,.5);
+    width: 130px;
+    height: 40px;
+    box-sizing:border-box;
+    margin-bottom:20px;
+    font-size:16px;
+    padding-top:10px;
+    text-align:center;
+}
+.top-nav-li a{
+    color:#fff;
+}
+.top-nav-li a:hover{
+    color:#fff;
+}
+#pinpai,#school{
+    color:#fff
+}
+.tel{
+    color:#000;
+    font-size:14px;
+    width: 130px;
+    margin-top:10px;
+    font-weight:bold;
+    cursor:pointer;
+}
+.tel:hover{
+    color:#f00;
+    transition:color .5s linear;
+}
+.nav-ul{
+    display: none;
+    box-sizing: border-box;
+    margin-left: -130px;
+    margin-top: -31px;
+}
+.nav-li{
+    background:rgba(0,0,0,.5);
+    width: 130px;
+    height: 40px;
+    box-sizing:border-box;
+    font-size:16px;
+    padding-top:10px;
+    text-align:center;
+}
+#pinpai:hover .nav-ul{
+    display: block;
+}
+#school:hover .nav-ul{
+    display: block;
+}

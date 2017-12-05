@@ -1,0 +1,55 @@
+.tb{
+    background: url("../images/join-desktop5.jpg") no-repeat;
+    overflow: hidden;
+}
+.form-cs{
+    opacity: .1;
+    border:1px solid transparent;
+    border-bottom:1px solid #000000;
+}
+.form{
+    position: relative;
+    left: 40%;
+    box-sizing: border-box;
+}
+.form-cs2{
+    background-color: transparent;
+    width: 500px;
+    height: 200px;
+    border:1px solid #CCC5C3;
+}
+.f-lie>label>span{
+    color :#ff0000
+}
+.f-c{
+    color:#ff0000
+}
+.form label{
+    font-weight: 400;
+    color: #555
+}
+.form-btn>button{
+    border: transparent;
+    background-color: #FF9900;
+    color: #555;
+    width: 80px;
+}
+.show-t{
+    width: 1280px;
+    margin: 0 auto;
+}
+.show-t>h1,.show-t>p{
+    margin-top: 20px;
+    text-align: left;
+}
+.join-pic{
+    width: 1280px;
+    margin: 0 auto;
+}
+.join-pic>li{
+    float:left;
+    width: 320px;
+}
+.join-pic>li>img{
+    width: 100%;
+}

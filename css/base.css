@@ -1,0 +1,21 @@
+p,h1,h2,h3,h4,h5,h6,ul,ol,dl,dd,pre{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+body{
+	padding: 0;
+	margin:0;
+	font:14px "微软雅黑",Arail,Helvetica,sans-serif;
+	color:#000;
+	background-color:#fff;
+	display:block;
+	overflow:auto;
+}
+/*设置 页面中  a元素的默认样式*/
+a{
+	text-decoration:none !important;
+	color:#333 ;
+}
+
+

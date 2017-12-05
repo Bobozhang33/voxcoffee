@@ -1,0 +1,54 @@
+a:hover{ text-decoration:none}
+.head-title{
+    font-size: 50px;
+    margin-top: 40px;
+    font-weight: bold;
+    color:#555;
+}
+body div.bg-color{
+    background: #E8E8E8;
+}
+body div.bg-img{
+    background: url("../images/store_bg.jpg");
+}
+.shop-text,.recommend{
+    color:#555;
+}
+.shop-show{
+    font-size: 50px;
+    color: #555555;
+    margin-top: 50px;
+}
+.shop-show-en{
+    font-size: 24px;
+    color: #555555;
+    margin-bottom: 150px;
+}
+.shop-name{
+    color: #000;
+    font-size: 28px;
+    margin-top: 150px;
+}
+.shop-address{
+    font-size: 20px;
+    color: #555;
+    margin-bottom: 20px;
+}
+.recommend{
+    box-sizing: border-box;
+    margin-top: 40px;
+    margin-bottom: 100px;
+    font-size: 20px;
+    font-weight:bold;
+}
+.shop-pic .img-responsive{
+    margin:10px;
+}
+.shop-pic .img-responsive:hover{
+    transform:scale(1.2) ;
+    transition: all .5s linear;
+}
+.list-pager{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
